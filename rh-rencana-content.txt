@@ -3,7 +3,9 @@ RENCANA KONTEN RH
 - Javascript
   * ES6
   * framework Javascript
-- Fundamental Data Dasar
+     ^ Angular
+     ^ React
 - PHP Frameworks
+  ^  Laravel
 - Interview
 - Vlogs
