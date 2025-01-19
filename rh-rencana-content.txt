@@ -5,7 +5,7 @@ RENCANA KONTEN RH
   * framework Javascript
     ^ Vue
     ^ React
-- Fundamental Data Dasar
+- Struktur Data Dasar
 - PHP Frameworks
     ^ Laravel
 - Interview
