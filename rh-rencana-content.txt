@@ -1,0 +1,8 @@
+RENCANA KONTEN RH
+
+- Javascript
+  * ES6
+  * framework Javascript
+- PHP Frameworks
+- Interview
+- Vlogs
